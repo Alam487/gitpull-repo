@@ -1,0 +1,6 @@
+name = ["apple","banana","grapes"]
+for i in name:
+  if i == "garpes":
+    print("the fruit is awesome ")
+ else:
+  print("the fruit is rottten")
